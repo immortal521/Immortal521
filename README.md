@@ -5,5 +5,5 @@
 <div id="img" align=center>
 </div>
 
-![2](image/1.jpg)
+<img src="image/1.jpg" style="border-radius:20px" />
 
