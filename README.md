@@ -5,5 +5,8 @@
 <div id="img" align=center>
 </div>
 
-<img src="image/1.jpg" style="border-radius:20px" />
+<div style="border-radius: 20px;">
+  <img src="image/1.jpg" style="border-radius: 20px;" />
+</div>
+
 
